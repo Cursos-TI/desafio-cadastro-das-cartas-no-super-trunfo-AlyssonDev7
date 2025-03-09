@@ -97,7 +97,7 @@ printf("Nome da cidade: %s\n", cidade2);
 printf("Polulação: %d\n", populacao2);
 printf("Área: %.3f\n", area2);
 printf("PIB: %.3f bilhões de reais\n", pib2);
-printf("Pontos turisticos: %d", pontosturisticos2);
+printf("Pontos turisticos: %d\n", pontosturisticos2);
 
 return 0;
 }
